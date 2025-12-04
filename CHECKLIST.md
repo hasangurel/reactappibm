@@ -2,7 +2,7 @@
 
 ## Project Requirements Status
 
-### ✅ Practice Project GitHub (6 points)
+### ✅ Practice Project GitHub (6 points).
 - [x] Redux store created (`src/redux/store.js`)
 - [x] Redux slice with actions and reducers (`src/redux/cartSlice.js`)
 - [x] Redux integrated with React app (`src/main.jsx`)
