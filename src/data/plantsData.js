@@ -14,7 +14,7 @@ export const plantsData = [
     category: "Aromatic Plants",
     price: 12.99,
     description: "Aromatic herb with needle-like leaves, great for cooking.",
-    image: "https://images.unsplash.com/photo-1585333196774-5c51c8de0ec1?w=400&h=300&fit=crop"
+    image: "https://images.unsplash.com/photo-1604084095061-0c7c6d35a732?w=400&h=300&fit=crop"
   },
   {
     id: 3,
