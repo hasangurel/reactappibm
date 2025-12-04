@@ -6,7 +6,7 @@ import './App.css';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/reactappibm">
       <Routes>
         <Route path="/" element={<LandingPage />} />
         <Route path="/products" element={<ProductListPage />} />
